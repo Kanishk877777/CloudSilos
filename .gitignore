@@ -1,9 +1,0 @@
-*.env
-
-/venv
-
-__pycache__/
-
-*.db
-
-cloudbucketproject-496408-9572105fe7ab.json
